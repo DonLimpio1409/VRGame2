@@ -7,22 +7,6 @@ La experiencia se centra en ofrecer una sensación satisfactoria de impacto y de
 Entorno de juego
 La sala contiene diferentes elementos decorativos y mobiliario que el jugador puede destruir. Entre ellos se incluyen camas, estatuas, jarrones y otros objetos distribuidos por el escenario para crear una experiencia de destrucción variada y entretenida.
 
-Images/rage_room_scene.png
-
-Vista de una de las zonas de la Rage Room con diversos objetos interactivos preparados para ser destruidos.
-
-
-Images/spiked_mace.png
-
-Arma cuerpo a cuerpo utilizada para destruir elementos del entorno mediante golpes físicos.
-
-
-Zona de destrucción
-Images/rage_room_scene.png
-
-Herramienta principal
-Images/spiked_mace.png
-
 Creditos Fav:
 Glass Carafe-Susan King
 Medieval Bed-JordanFry3D
